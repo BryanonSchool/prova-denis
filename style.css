@@ -1,0 +1,37 @@
+/* estilo da pagina */
+body {
+    background-color: #FFC4AA; /* cor laranja clara */
+    font-family: arial, sans-serif;
+    margin: 0;
+    padding: 15px;
+    }
+    
+    /* cabesalho */
+    header {
+    background-color: #FA5D84; /* rosa */
+    padding: 20px;
+    text-align: center;
+    color: white;
+    }
+    
+    /* parte do meio */
+    main {
+    background-color: white;
+    padding: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    }
+    
+    /* rodape padrao */
+    footer {
+    background-color: #FA5D84;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    }
+    
+    /* link */
+    a {
+    color: #FA5D84;
+    font-weight: bold;
+    }
